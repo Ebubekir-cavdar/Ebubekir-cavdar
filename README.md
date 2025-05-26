@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ebubekir-çavdar-869a44367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebubekir çavdar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebubekir-%C3%A7avdar-869a44367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebubekir çavdar" height="30" width="40" /></a>
 <a href="https://instagram.com/ebubekir_cavdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebubekir_cavdar" height="30" width="40" /></a>
 </p>
 
